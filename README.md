@@ -6,7 +6,7 @@
 
 - **Botus**: Un bot Discord en Python qui permet de jouer à Motus.
 - **Et mon train?**: Un bot Discord en Python qui permet de connaître les horaires de trains.
-- **TP-MVC**: Une page web en PHP qui est liée à une base de données MySQL sur laquelle nous pouvons ajouter, modifier et supprimer des livres.
+- **Biblio-MVC**: Une page web en PHP qui est liée à une base de données MySQL sur laquelle nous pouvons ajouter, modifier et supprimer des livres.
 
 ## 📊 Statistiques de mes repositories
 
