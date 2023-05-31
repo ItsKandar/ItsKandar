@@ -5,6 +5,7 @@
 ## 💻 Mes projets
 
 - **Botus**: Un bot Discord en Python qui permet de jouer à Motus.
+- **Botus-website** Site web pour jouer à Motus.
 - **Et mon train?**: Un bot Discord en Python qui permet de connaître les horaires de trains.
 - **Biblio-MVC**: Une page web en PHP qui est liée à une base de données MySQL sur laquelle nous pouvons ajouter, modifier et supprimer des livres.
 
@@ -21,7 +22,8 @@ N'hésitez pas à me contacter pour discuter de mes projets ou de mes intérêts
 ## 💻 My Projects
 
 - **Botus**: A Python Discord bot that allows you to play Motus.
-- **And my train?**: A Python Discord bot that allows you to know train schedules.
+- **Botus-website** A website to play Motus.
+- **Et Mon Train? (And My Train?)**: A Python Discord bot that allows you to know train schedules.
 - **Biblio-MVC**: A PHP web page linked to a MySQL database on which we can add, modify, and delete books.
 
 ## 📊 My Repository Statistics
