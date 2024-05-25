@@ -54,7 +54,5 @@
 <div align="center">
 
   
-  ![Snake animation](https://github.com/Miliexe/Miliexe/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
-  
   ![](https://komarev.com/ghpvc/?username=ItsKandar&label=thanks+for+visiting&style=for-the-badge&color=000000)
 </div>
