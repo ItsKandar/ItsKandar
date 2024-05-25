@@ -1,3 +1,11 @@
+<div align="center">
+
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ItsKandar&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&stroke=FAB795&border=0D111700&ring=E95678&fire=E96D38&currStreakNum=CFCFCF&sideNums=979797&currStreakLabel=DCA629&sideLabels=FF87AB&dates=A3A3A3)](https://git.io/streak-stats)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKandar&layout=donut&theme=dracula&hide_border=true)](https://github.com/ItsKandar)
+</div>
+
 # 🇫🇷👋 Bonjour, je suis ItsKandar
 
 👨‍💻 Je suis actuellement en alternance chez Groupe Intuis, tout en poursuivant mes études à l'ESGI de Reims. Mon objectif est de devenir consultant en sécurité informatique dans les années à venir. J'acquiers actuellement des connaissances pratiques et théoriques en informatique, en travaillant sur des projets stimulants au sein de Groupe Intuis et indépendamment. Je suis motivé par les défis que présente ce domaine en constante évolution et j'ai hâte de contribuer à des solutions innovantes pour répondre aux besoins en sécurité informatique de l'industrie.
@@ -5,15 +13,20 @@
 ## 💻 Mes projets
 
 - **Botus**: Un bot Discord en Python qui permet de jouer à Motus.
-- **Botus-website** Site web pour jouer à Motus.
+  
+[![Botus](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=botus)](https://github.com/itskandar/botus)
+
+- **musique.dionysosparty.fr** : Site web en React pour gerer des requetes de musique
+  
+[![musique.dionysosparty.fr](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=musique.dionysosparty.fr)](https://github.com/itskandar/musique.dionysosparty.fr)
+
+- **Botus-website**: Site web pour jouer à Motus.
+
+[![Botus-website](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=botus-website)](https://github.com/itskandar/botus-website)
+
 - **Et mon train?**: Un bot Discord en Python qui permet de connaître les horaires de trains.
-- **Biblio-MVC**: Une page web en PHP qui est liée à une base de données MySQL sur laquelle nous pouvons ajouter, modifier et supprimer des livres.
 
-## 📊 Statistiques de mes repositories
-
-[![Statistiques de mes repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKandar&layout=compact)](https://github.com/ItsKandar)
-
-N'hésitez pas à me contacter pour discuter de mes projets ou de mes intérêts en matière de sécurité informatique. 📧
+[![Et-Mon-Train](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=et-mon-train)](https://github.com/itskandar/et-mon-train)
 
 # 🇬🇧👋 Hello, I'm ItsKandar
 
@@ -21,13 +34,27 @@ N'hésitez pas à me contacter pour discuter de mes projets ou de mes intérêts
 
 ## 💻 My Projects
 
-- **Botus**: A Python Discord bot that allows you to play Motus.
+- **Botus**: A Python Discord bot that allows you to play Motus (Wordle).
+  
+[![Botus](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=botus)](https://github.com/itskandar/botus)
+
+- **musique.dionysosparty.fr** : React website to manage music requests
+  
+[![musique.dionysosparty.fr](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=musique.dionysosparty.fr)](https://github.com/itskandar/musique.dionysosparty.fr)
+
 - **Botus-website** A website to play Motus.
+
+[![Botus-website](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=botus-website)](https://github.com/itskandar/botus-website)
+
 - **Et Mon Train? (And My Train?)**: A Python Discord bot that allows you to know train schedules.
-- **Biblio-MVC**: A PHP web page linked to a MySQL database on which we can add, modify, and delete books.
 
-## 📊 My Repository Statistics
+[![Et-Mon-Train](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=et-mon-train)](https://github.com/itskandar/et-mon-train)
 
-[![My Repository Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKandar&layout=compact)](https://github.com/ItsKandar)
+# 📊 Misc
+<div align="center">
 
-Feel free to contact me to discuss my projects or my interests in computer security. 📧
+  
+  ![Snake animation](https://github.com/Miliexe/Miliexe/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+  
+  ![](https://komarev.com/ghpvc/?username=ItsKandar&label=thanks+for+visiting&style=for-the-badge&color=000000)
+</div>
