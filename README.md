@@ -4,6 +4,8 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ItsKandar&hide_border=true&date_format=j%20M%5B%20Y%5D&background=DD272700&stroke=FAB795&border=0D111700&ring=E95678&fire=E96D38&currStreakNum=CFCFCF&sideNums=979797&currStreakLabel=DCA629&sideLabels=FF87AB&dates=A3A3A3)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKandar&layout=donut&theme=dracula&hide_border=true)](https://github.com/ItsKandar)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=itskandar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 # 🇫🇷👋 Bonjour, je suis ItsKandar
