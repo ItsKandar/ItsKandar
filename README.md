@@ -10,7 +10,7 @@
 
 # 🇫🇷👋 Bonjour, je suis ItsKandar
 
-👨‍💻 Je suis actuellement en alternance chez Groupe Intuis, tout en poursuivant mes études à l'ESGI de Reims. Mon objectif est de devenir consultant en sécurité informatique dans les années à venir. J'acquiers actuellement des connaissances pratiques et théoriques en informatique, en travaillant sur des projets stimulants au sein de Groupe Intuis et indépendamment. Je suis motivé par les défis que présente ce domaine en constante évolution et j'ai hâte de contribuer à des solutions innovantes pour répondre aux besoins en sécurité informatique de l'industrie.
+👨‍💻 Je suis actuellement en alternance chez Groupe Intuis, tout en poursuivant mes études à l'ESGI de Reims. Mon objectif est de devenir consultante en sécurité informatique dans les années à venir. J'acquiers actuellement des connaissances pratiques et théoriques en informatique, en travaillant sur des projets stimulants au sein de Groupe Intuis et indépendamment. Je suis motivée par les défis que présente ce domaine en constante évolution et j'ai hâte de contribuer à des solutions innovantes pour répondre aux besoins en sécurité informatique de l'industrie.
 
 ## 💻 Mes projets
 
@@ -18,7 +18,7 @@
   
 [![Botus](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=botus)](https://github.com/itskandar/botus)
 
-- **musique.dionysosparty.fr** : Site web en React pour gerer des requetes de musique
+- **musique.dionysosparty.fr** : Site web en React pour gerer des requetes de musique avec l'API Spotify.
   
 [![musique.dionysosparty.fr](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=musique.dionysosparty.fr)](https://github.com/itskandar/musique.dionysosparty.fr)
 
@@ -32,7 +32,7 @@
 
 # 🇬🇧👋 Hello, I'm ItsKandar
 
-👨‍💻 I am currently an apprentice at Groupe Intuis while pursuing my studies at ESGI in Reims. My goal is to become a computer security consultant in the coming years. I am currently gaining practical and theoretical knowledge in computer science, working on stimulating projects within Groupe Intuis and independently. I am motivated by the challenges presented by this constantly evolving field and look forward to contributing to innovative solutions to meet the computer security needs of the industry.
+👨‍💻 I'm currently an apprentice at Groupe Intuis while pursuing my studies at ESGI in Reims. My goal is to become a computer security consultant in the coming years. I am currently gaining practical and theoretical knowledge in computer science, working on stimulating projects within Groupe Intuis and independently. I am motivated by the challenges presented by this constantly evolving field and look forward to contributing to innovative solutions to meet the computer security needs of the industry.
 
 ## 💻 My Projects
 
@@ -40,7 +40,7 @@
   
 [![Botus](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=botus)](https://github.com/itskandar/botus)
 
-- **musique.dionysosparty.fr** : React website to manage music requests
+- **musique.dionysosparty.fr** : React website to manage music requests using Spotify API.
   
 [![musique.dionysosparty.fr](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=musique.dionysosparty.fr)](https://github.com/itskandar/musique.dionysosparty.fr)
 
