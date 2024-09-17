@@ -20,7 +20,7 @@
 
 - **musique.dionysosparty.fr** : Site web en React pour gerer des requetes de musique avec l'API Spotify.
   
-[![musique.dionysosparty.fr](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=musique.dionysosparty.fr)](https://github.com/itskandar/musique.dionysosparty.fr)
+[![musique.dionysosparty.fr](https://github-readme-stats.vercel.app/api/pin/?username=aygame101&repo=musique.dionysosparty.fr)](https://github.com/aygame101/musique.dionysosparty.fr)
 
 - **Botus-website**: Site web pour jouer à Motus.
 
@@ -42,7 +42,7 @@
 
 - **musique.dionysosparty.fr** : React website to manage music requests using Spotify API.
   
-[![musique.dionysosparty.fr](https://github-readme-stats.vercel.app/api/pin/?username=ItsKandar&repo=musique.dionysosparty.fr)](https://github.com/itskandar/musique.dionysosparty.fr)
+[![musique.dionysosparty.fr](https://github-readme-stats.vercel.app/api/pin/?username=aygame101&repo=musique.dionysosparty.fr)](https://github.com/aygame101/musique.dionysosparty.fr)
 
 - **Botus-website** A website to play Motus.
 
